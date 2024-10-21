@@ -1,0 +1,12 @@
+src/main/java/com/kurt/pdfconverter
+├── controllers
+│   └── ConverterController.java
+├── services
+│   └── FileConversionService.java
+├── utils
+│   └── FileUploadUtil.java
+└── PdfConverterApplication.java
+src/main/resources
+├── templates
+│   └── index.html
+├── application.properties
